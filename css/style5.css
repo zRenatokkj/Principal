@@ -39,8 +39,8 @@ main{
 }
 
 .link-a-1{
-    background-color: #bb09ac;
-    border: #e605d3 solid 2px;
+    background-color: #d44637;
+    border: #c71c0a solid 2px;
     color: white;
     font-weight: bold;
     padding: 10px;
@@ -48,7 +48,7 @@ main{
 
 .link-a-2{
     background-color: transparent;
-    border: #e605d3 solid 2px;
+    border: #c71c0a solid 2px;
     font-weight: bold;
     padding: 5px;
 }
@@ -89,7 +89,7 @@ footer{
 
 .secao-1 h2{
     font-weight: lighter;
-    color: #e605a3;
+    color: #c71c0a;
     margin-top: 10px;
 }
 
@@ -99,7 +99,7 @@ h2{
 
 .secao-2 h2{
     font-weight: lighter;
-    color: #e605d3;
+    color: #c71c0a;
     margin-top: 10px;
 }
 
