@@ -1,5 +1,5 @@
 body{
-    background-color: ff7d59;
+    background-color: #ff7d59;
 }
 
 main{
@@ -33,9 +33,9 @@ main{
 }
 
 .links a:hover{
-    color: #e605d3;
-    border-top: 2px solid #e605d3;
-    border-bottom: 2px solid #e605d3;
+    color: #d44637;
+    border-top: 2px solid #c71c0a;
+    border-bottom: 2px solid #c71c0a;
 }
 
 .link-a-1{
@@ -59,12 +59,12 @@ main{
     font-size: x-large;
 }
 
-.span-1{
-    color:#85037a ;
+.span-1 {
+    color: #c71c0a;
 }
 
-.span-2{
-    color: #e605d3;
+.span-2 {
+    color: #d44637;
 }
 
 footer{
